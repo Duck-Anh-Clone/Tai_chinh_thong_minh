@@ -1,4 +1,4 @@
-# 📊 Dự Án Quản Lý Tài Chính & Phân Tích Dữ Liệu
+# 📊 Dự Án Quản Lý Tài Chính 
 
 ## 🚀 Giới Thiệu
 Dự án này nhằm cung cấp một công cụ giúp người dùng quản lý tài chính cá nhân và doanh nghiệp, đồng thời phân tích dữ liệu tài chính để đưa ra các quyết định chiến lược.
